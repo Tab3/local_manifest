@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/samsung/lt02wifiue" name="Tab3/android_device_samsung_lt02wifiue" remote="github" />
+  <project path="kernel/samsung/lt02" name="Tab3/android_kernel_samsung_lt02" remote="github"/>
+  <project path="vendor/samsung/lt02wifiue" name="Tab3/android_vendor_samsung_lt02wifiue" remote="github" />
+
+  <project path="hardware/marvell" name="Tab3/android_hardware_marvell" remote="github" />
+  <project path="hardware/marvell/libbt" name="Tab3/android_hardware_marvell_libbt" remote="github" />
+  <project path="hardware/marvell/wlan" name="Tab3/android_hardware_marvell_wlan" remote="github" />
+
+</manifest>
